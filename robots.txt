@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://octa-brokerlogin.github.io/sitemap.xml
